@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am Data Analyst from India</p>
+<p align="left">Data Analyst from India</p>
 
 ###
 
